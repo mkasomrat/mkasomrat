@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com/mkasomrat',
   youtube: 'https://mkasomrat.github.io/mkastube',
   linkedin: 'https://www.linkedin.com',
-  medium: 'https://medium.com',
+  medium: 'https://mkasomrat.github.io',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
   stickyNav: false,
