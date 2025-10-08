@@ -11,6 +11,7 @@ const siteMetadata = {
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: 'mkasomrat@gmail.com',
+username: 'https://mkasomrat.github.io',
   github: 'https://github.com/mkasomrat',
   youtube: 'https://mkasomrat.github.io/mkastube',
   linkedin: 'https://www.linkedin.com',
