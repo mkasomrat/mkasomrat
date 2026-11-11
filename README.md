@@ -8,6 +8,7 @@
 
 <p>
   <a href="https://mkasomrat.com"><img src="https://img.shields.io/badge/Website-mkasomrat.com-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://mkasomrat.github.io/whatsapp"><img src="https://img.shields.io/badge/WhatsApp-Chat_with_me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://t.me/mkasomrat"><img src="https://img.shields.io/badge/Telegram-@mkasomrat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="mailto:mkasomrat@gmail.com"><img src="https://img.shields.io/badge/Email-mkasomrat@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://suffah.world/@mkasomrat"><img src="https://img.shields.io/badge/Suffah-@mkasomrat-2e7d32?style=for-the-badge&logo=mastodon&logoColor=white" alt="Suffah"/></a>
