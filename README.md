@@ -131,9 +131,9 @@ I write about **neuroscience, science, health, and Qur'anic reflection** — wit
 
 - 🧠 **[The Neural Miracle: How Speaking Multiple Languages Rewires the Brain…](https://islamos.org/article/the-neural-miracle-how-speaking-multiple-languages-rewires-the-brain-slows-biological-aging-and-manifests-divine-design/)**
 - 🧬 **Where Brain Meets Body: The Science of Human Integration** — [read on mkasomrat.com](https://mkasomrat.com/article)
-- 🦉 **The Hidden Fluorescence of Owl Feathers: A Sign of Divine Precision**
+- 📑 **The Hidden Fluorescence of Owl Feathers: A Sign of Divine Precision**
 - 🌌 **Series: *Le Cosmos d'Hikmah*** — a journey through the cosmos of wisdom, where science, philosophy, faith, and the mysteries of existence converge.
-- 😀 **[The Shari'i Perspective on the Use of Emojis](https://islamos.org/article/the-sharii-perspective-on-the-use-of-emojis-a-detailed-analysis/)** *(English & Bangla)*
+- 🔰 **[The Shari'i Perspective on the Use of Emojis](https://islamos.org/article/the-sharii-perspective-on-the-use-of-emojis-a-detailed-analysis/)** *(English & Bangla)*
 
 > 👉 All articles: **[mkasomrat.com/article](https://mkasomrat.com/article)**
 
