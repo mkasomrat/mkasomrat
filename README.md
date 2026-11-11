@@ -175,14 +175,13 @@ I write about **neuroscience, science, health, and Qur'anic reflection** — wit
 
 <div align="center">
 
-<a href="https://mkasomrat.com"><img src="https://img.shields.io/badge/🌐_Portfolio-mkasomrat.com-0f2027?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://mkasomrat.com"><img src="https://img.shields.io/badge/🌐_Portfolio-mkasomrat.com-0f2027?style=for-the-badge" alt="Portfolio"/></a> <a href="https://mkasomrat.github.io/whatsapp"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://t.me/mkasomrat"><img src="https://img.shields.io/badge/Telegram-Message_me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-<a href="https://mkasomrat.github.io/whatsapp"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="mailto:mkasomrat@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
-*Decoding the universe through dawa'h! I'm just a kid. That's the truth! — La vita è bella!* 🌍
+*Decoding the universe through dawa'h! Trust me, I'm just a kid. That's the truth! — La vita è bella!* 🌍
 
 <sub>🗂️ Older portfolio: <a href="https://mkasomrat.github.io">mkasomrat.github.io</a></sub>
 
