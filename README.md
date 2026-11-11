@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=MKA%20SOMRAT&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Muhammad%20Kawsar%20Ahmad%20Somrat%20%C2%B7%20formerly%20mKas&descAlignY=60&descSize=18" alt="MKA SOMRAT banner" width="100%"/>
+<img src="https://mkasomrat.com/assets/img/demo.jpg" alt="MKA SOMRAT banner" width="100%"/>
 
 <a href="https://mkasomrat.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=2C9CDB&center=true&vCenter=true&width=700&lines=Ṭālib-i-ʿilm+%7C+Full-Stack+Dāʿī+%7C+Philanthropist;MBBS+Student+%40+KYAMCH;Medicine+%C3%97+Code+%C3%97+AI+%C3%97+Philosophy;Decoding+the+universe+through+dawa'h!" alt="Typing SVG" />
